@@ -1,7 +1,7 @@
 # Meilensteine für meine C++ Lernreise
 
 ## Phase 1: Grundlagen (✅ abgeschlossen)
-- [ ] Einführung in die Syntax von C++ (Hello World, Variablen, Datentypen)
+- [x] Einführung in die Syntax von C++ (Hello World, Variablen, Datentypen)
 - [ ] Kontrollstrukturen (if, loops)
 - [ ] Funktionen und Parameter
 
