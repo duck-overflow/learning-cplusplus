@@ -25,7 +25,7 @@ int main() {
   std::cout << "Hello" << " world!" << " With multiple <<" << std::endl;
 
   int in;
-  // std::cin >> in;
+  std::cin >> in;
   std::cout << "Du hast " << in << " Eingegeben \n";
 
   int uno;

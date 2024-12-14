@@ -3,7 +3,7 @@
 ## Initialisierung von Objekten
 - int x = 10; → traditionelle Kopierinitialisierung 
   - lässt implizite Konvertierung zu 5.5 zu int = 5 (.5 geht verloren)
-- int x { 10 }; → Listeninitialisierung geht teilweise nicht (in dem Fall '=')
+- int x{10}; → Listeninitialisierung geht teilweise nicht (in dem Fall '=')
   - einheitlich sichere Initialisierung; strenge Typprüfung (Fehler, falls Typverlust auftreten könnte (zum Beispiel double → int))
 - int x(5); → Direktinitialisierung
   - wird direkt an Konstruktor übergeben (da primitive Datentypen keinen Konstruktor → ähnlich Kopierinitialisierung)
